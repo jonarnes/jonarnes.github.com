@@ -9,3 +9,6 @@ description: ""
 
 
 <img src="/assets/images/barber-shop.jpg">
+
+
+<img src="https://imageengine.whateverweb.com/assets/images/barber-shop.jpg">
