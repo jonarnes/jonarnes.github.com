@@ -5,10 +5,7 @@ description: ""
 ---
 {% include JB/setup %}
 
-# Hello
 
+DNS managed by SP.
 
-<img src="/assets/images/barber-shop.jpg">
-
-
-<img src="https://imageengine.whateverweb.com/assets/images/barber-shop.jpg">
+<img src="http://imageengine.whateverweb.com/assets/images/barber-shop.jpg">
